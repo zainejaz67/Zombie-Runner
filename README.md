@@ -10,4 +10,4 @@ The red agent is the user controlled and the purple agent is AI agent. The total
 start of each program is 5000 and with each move 10 points are deducted. On collision with a 
 zombie 100 points are deducted. The AI-controlled agent, employs the A* search algorithm to 
 calculate the optimal path to the finish line. The algorithm uses a heuristic based on Manhattan 
-distance to estimate the cost of reaching the goal and adjusts its calculations to avoid zombieadjacent cells by assigning higher costs to such positions.
+distance to estimate the cost of reaching the goal and adjusts its calculations to avoid zombie adjacent cells by assigning higher costs to such positions.
